@@ -1,9 +1,7 @@
 const Products = () => {
   return (
     <div>
-      <h1>products</h1>
-
-      <p>created by kiro</p>
+      <span>tomas</span>
     </div>
   );
 };
