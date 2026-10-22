@@ -3,7 +3,7 @@ const Products = () => {
     <div>
       <h1>products</h1>
 
-      <p>created by kiro</p>
+      <h2>created by kiro</h2>
     </div>
   );
 };
